@@ -1,2 +1,3 @@
 learning  git
 teaching git
+thanks for get new knowledge
