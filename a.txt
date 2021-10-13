@@ -1,14 +1,13 @@
 learning  git
 teaching git
 thanks for get new knowledge
-
-
-
-
 learn
 java
 edurekka
 kush
 teach
 rodrigue
-
+hello
+learn git branch
+learn merge conflict
+thanks kush
